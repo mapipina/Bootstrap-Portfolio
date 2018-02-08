@@ -107,7 +107,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 }
 .footer {
   position: absolute;
@@ -125,13 +125,6 @@ body {
 /*                                        universal properties                                          */
 
 /*                                       index.html properties                                          */
-/* .about {
-	overflow: auto;
-	line-height: 150%;
-	border: 1px solid #cccccc;
-	padding: 20px;
-	width: 566px;
-} */
 
 p img {
 	float: left;
@@ -194,7 +187,7 @@ span {
 #puppy-text {
 	position: absolute;
 	top: 310%;
-	left: 2.5%;
+	left: 5%;
 	background-color: #4aaaa5;
 	color: white;
 	width: 200px;
@@ -206,7 +199,7 @@ span {
 #puppy-text-2 {
 	position: absolute;
 	top: 310%;
-	left: 2.5%;
+	left: 5%;
 	background-color: #4aaaa5;
 	color: white;
 	width: 200px;
@@ -217,8 +210,8 @@ span {
 
 #puppy-text-3 {
 	position: absolute;
-	top: 310%;
-	left: 5.05%;
+	top: 285%;
+	left: 5%;
 	background-color: #4aaaa5;
 	color: white;
 	width: 200px;
@@ -229,12 +222,11 @@ span {
 
 #puppy-text-4 {
 	position: absolute;
-	top: 90%;
-	left: 27.90%;
+	top: 310%;
+	left: 5%;
 	background-color: #4aaaa5;
 	color: white;
 	width: 200px;
-	/*height: 50px;*/
 	padding-top: 16px;
 	padding-bottom: 16px;
 	text-align: center;
@@ -242,8 +234,8 @@ span {
 
 #puppy-text-5 {
 	position: absolute;
-	top: 128%;
-	left: 10.30%;
+	top: 310%;
+	left: 5%;
 	background-color: #4aaaa5;
 	color: white;
 	width: 200px;
